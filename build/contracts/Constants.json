@@ -1,0 +1,8 @@
+{
+  "contract_name": "Constants",
+  "abi": [],
+  "unlinked_binary": "0x6060604052600080553415601257600080fd5b5b60368060206000396000f30060606040525b600080fd00a165627a7a723058208e2741cce57eb3189538de5d59b719b7df428c45b186e44dad7b60fd0e8565da0029",
+  "networks": {},
+  "schema_version": "0.0.5",
+  "updated_at": 1511949970098
+}
